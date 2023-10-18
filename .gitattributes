@@ -14,8 +14,20 @@
       font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
         "Lucida Sans", Arial, sans-serif;
     }
+
+    h2 {
+        text-align: center;
+        color: blue;
+        font-family: 
+    }
   </style>
   <body>
     <h1>This is a testing page for Netlify</h1>
+
+    <h2>
+    I cannot get my site to be live on <strong>netlify</strong>
+    <br>
+    Coded by Rotenda
+    </h2>
   </body>
 </html>
