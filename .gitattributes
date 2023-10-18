@@ -18,7 +18,12 @@
     h2 {
         text-align: center;
         color: blue;
-        font-family: 
+        font-family: 'Caveat', cursive;
+font-family: 'Lora', serif;
+font-family: 'Mooli', sans-serif;
+font-family: 'Outfit', sans-serif;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Roboto Mono', monospace;
     }
   </style>
   <body>
